@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#DDC886"
+    android:background="#0BF890"
     tools:context=".MainActivity">
 
 
@@ -26,6 +26,7 @@
         android:text="Generate a Password"
         android:textColor="@color/black"
         android:textSize="30sp"
+        android:textStyle="bold|italic"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
